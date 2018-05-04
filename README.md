@@ -7,6 +7,8 @@ To run in mac.
 i) npm run start
 ii)sudo ./bin/mongod
 
+http://localhost:3000/tasks
+
 CRUD in 10 minutes WEB-nodejs-mongo 
 https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
 https://github.com/magentall/localhost-nodejs-mongo-2018 
